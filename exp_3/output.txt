@@ -1,0 +1,8 @@
+Chatbot ready! Type 'quit' to exit.
+>> User: Hello!
+Bot: Hello! How can I help you today?
+>> User: What is Generative AI?
+Bot: Generative AI refers to artificial intelligence systems capable of creating content like text, images, audio, and code.
+>> User: That is fascinating.
+Bot: It really is! It's changing how we interact with technology.
+>> User: quit

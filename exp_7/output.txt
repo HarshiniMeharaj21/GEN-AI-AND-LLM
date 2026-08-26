@@ -1,0 +1,5 @@
+Document: The central bank raised interest rates to control rising inflation.
+Economy: 0.954
+Politics: 0.032
+Technology: 0.008
+Sports: 0.006

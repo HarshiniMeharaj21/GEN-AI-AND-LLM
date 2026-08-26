@@ -1,0 +1,5 @@
+Review: The new smartphone has an amazing camera and battery life!
+ -> POSITIVE (0.999)
+
+Review: The delivery was late and the packaging was damaged.
+ -> NEGATIVE (0.998)
